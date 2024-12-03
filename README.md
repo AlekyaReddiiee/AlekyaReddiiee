@@ -34,12 +34,7 @@ Dive into my portfolio and explore my work. Let’s collaborate and co-create a 
 ](https://www.coursera.org/account/accomplishments/specialization/certificate/4YYSZ8JRV4GN) [![Static Badge](https://img.shields.io/badge/Applied%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue&link=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F7BVVEK72RG7K)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K) [![Static Badge](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/specialization/certificate/W6B3E8FDJ9TR)
 
 ## Credly Badges
-<img src="https://github.com/user-attachments/assets/072f9f97-1c1b-4c88-9020-ed83dd8c8dbc" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/3b904227-875f-4914-a0ec-2c98b7578c3c" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/6c9f19b6-da48-4ead-b65f-7051c358e012" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/c4c352f5-a1a1-4651-a779-6aa0e33fd2c0" width="200" alt="Small Image Example">
-![image](https://github.com/user-attachments/assets/2e2fcb19-cc0f-4b19-b9d1-a18c1ba2a48c)
-![image](https://github.com/user-attachments/assets/6c9f19b6-da48-4ead-b65f-7051c358e012)
-
-
-
+<img src="https://github.com/user-attachments/assets/cd9a620e-c16b-4f62-91f2-f8bc4e6f0e56" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/3203ffec-a837-4bf4-a447-04484adee7ea" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/6c9f19b6-da48-4ead-b65f-7051c358e012" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/c4c352f5-a1a1-4651-a779-6aa0e33fd2c0" width="200" alt="Small Image Example">
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekyawork16@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alekyareddy-kudumula/)
