@@ -34,7 +34,8 @@ Dive into my portfolio and explore my work. Let’s collaborate and co-create a 
 ](https://www.coursera.org/account/accomplishments/specialization/certificate/4YYSZ8JRV4GN) [![Static Badge](https://img.shields.io/badge/Applied%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue&link=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F7BVVEK72RG7K)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K) [![Static Badge](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/specialization/certificate/W6B3E8FDJ9TR)
 
 ## Credly Badges
-<img src="https://github.com/user-attachments/assets/072f9f97-1c1b-4c88-9020-ed83dd8c8dbc" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/3b904227-875f-4914-a0ec-2c98b7578c3c" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/c17cf230-fb42-4678-8e8c-6b84e60d9bbb" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/e7107208-8456-497a-9301-33bc27e0c5af" width="200" alt="Small Image Example">
+<img src="https://github.com/user-attachments/assets/072f9f97-1c1b-4c88-9020-ed83dd8c8dbc" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/3b904227-875f-4914-a0ec-2c98b7578c3c" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/c17cf230-fb42-4678-8e8c-6b84e60d9bbb" width="200" alt="Small Image Example"><img src="![image](https://github.com/user-attachments/assets/c4c352f5-a1a1-4651-a779-6aa0e33fd2c0)
+" width="200" alt="Small Image Example">
 
 
 ## Contact
