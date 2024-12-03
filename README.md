@@ -36,6 +36,8 @@ Dive into my portfolio and explore my work. Let’s collaborate and co-create a 
 ## Credly Badges
 <img src="https://github.com/user-attachments/assets/072f9f97-1c1b-4c88-9020-ed83dd8c8dbc" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/3b904227-875f-4914-a0ec-2c98b7578c3c" width="200" alt="Small Image Example"><img src="https://github.com/user-attachments/assets/c17cf230-fb42-4678-8e8c-6b84e60d9bbb" width="200" alt="Small Image Example"><img src="![image](https://github.com/user-attachments/assets/c4c352f5-a1a1-4651-a779-6aa0e33fd2c0)
 " width="200" alt="Small Image Example">
+![image](https://github.com/user-attachments/assets/2e2fcb19-cc0f-4b19-b9d1-a18c1ba2a48c)
+
 
 
 ## Contact
