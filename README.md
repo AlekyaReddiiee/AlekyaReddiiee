@@ -1,4 +1,5 @@
-![Black and White Creative Profile Information LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/4f9a46fe-ef52-4c0f-99f0-592c7820d717)
+![Black and White Creative Profile Information LinkedIn Article Cover Image (3)](https://github.com/user-attachments/assets/342939c2-0efe-4840-9ab4-61bacb444257)
+
 
 
 
