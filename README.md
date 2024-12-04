@@ -1,4 +1,5 @@
-![Black and White Creative Profile Information LinkedIn Article Cover Image (2)](https://github.com/user-attachments/assets/db3c39ac-8cfb-4ea2-a3c9-178f8080803a)
+![Black and White Creative Profile Information LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/4f9a46fe-ef52-4c0f-99f0-592c7820d717)
+
 
 
 ### Data Analyst| Data Science Enthusiast | ML Engineer
