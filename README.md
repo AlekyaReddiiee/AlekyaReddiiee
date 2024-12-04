@@ -1,7 +1,6 @@
 ![Black and White Creative Profile Information LinkedIn Article Cover Image (2)](https://github.com/user-attachments/assets/db3c39ac-8cfb-4ea2-a3c9-178f8080803a)
 
 
-# Alekya Kudumula
 ### Data Analyst| Data Science Enthusiast | ML Engineer
 
 Hi There! 👋
